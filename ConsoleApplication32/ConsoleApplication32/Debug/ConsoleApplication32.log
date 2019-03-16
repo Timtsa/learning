@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\e6330\desktop\t1\consoleapplication32\consoleapplication32\source.cpp(164): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\e6330\desktop\t1\consoleapplication32\consoleapplication32\source.cpp(310): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+c:\users\e6330\desktop\t1\consoleapplication32\consoleapplication32\source.cpp(346): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+c:\users\e6330\desktop\t1\consoleapplication32\consoleapplication32\source.cpp(352): warning C4018: '<': signed/unsigned mismatch
+c:\users\e6330\desktop\t1\consoleapplication32\consoleapplication32\source.cpp(420): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+  ConsoleApplication32.vcxproj -> C:\Users\E6330\Desktop\T1\ConsoleApplication32\Debug\ConsoleApplication32.exe
+  ConsoleApplication32.vcxproj -> C:\Users\E6330\Desktop\T1\ConsoleApplication32\Debug\ConsoleApplication32.pdb (Full PDB)
